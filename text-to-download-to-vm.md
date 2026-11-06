@@ -59,7 +59,7 @@ You can use the following information to complete onboarding/set up:
 - Name: Your name or alias
 - Username: Your name or alias
 - Password: Any password you like
-- Location of your home: Museum of Natural History Basel, Basel-City, Switzerland 
+- Location of your home: Basel, Basel-City, Switzerland 
 - Data sharing: I want to share basic analytics, statistical data and diagnostics.
 
 ---
