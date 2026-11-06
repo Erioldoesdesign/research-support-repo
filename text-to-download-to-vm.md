@@ -45,7 +45,7 @@ I have successfully set up Home Assistant on a virtual machine on my computer. I
 
 ---
 
-Before you open any webpages or software, please tell us outloud: **How much time in minutes and/or seconds do you think the task will take?** and on a scale of 1 to 7, 1 being very difficult and 7 being very easy, **how easy or difficult will this task be?**
+Before I open any webpages or software, please tell us outloud: **How much time in minutes and/or seconds do you think the task will take?** and on a scale of 1 to 7, 1 being very difficult and 7 being very easy, **how easy or difficult will this task be?**
 
 ---
 
