@@ -5,7 +5,7 @@ I have a program that allows me to create a Virtual Machine or VM on my computer
 
 ----
 
-Before you open any webpages or software, please tell us outloud: **How much time in minutes and/or seconds do you think the task will take?** and on a scale of 1 to 7, 1 being very difficult and 7 being very easy, **how easy or difficult will this task be?**
+Before I open any webpages or software, please tell the interviewer outloud: **How much time in minutes and/or seconds do you think the task will take?** and on a scale of 1 to 7, 1 being very difficult and 7 being very easy, **how easy or difficult will this task be?**
 
 
 Please open https://deploy-preview-48129--home-assistant-docs.netlify.app/installation/linux/ in a Firefox internet browser window. We'd like you to follow the instructions on that webpage.
@@ -13,7 +13,7 @@ Please open https://deploy-preview-48129--home-assistant-docs.netlify.app/instal
 
 ----
 
-When you have finished installation and are ready to move onto onboarding please say outloud **I have finished setting up my virtual machine**.
+When I have finished installation and are ready to move onto onboarding please say outloud **I have finished setting up my virtual machine**.
 
 If you get to a point where you don't know what else to do, where you'd normally give up or ask someone, just say *"I am stuck"* and I'll help you carry on. That is really useful for us to know.
 
@@ -45,7 +45,7 @@ I have successfully set up Home Assistant on a virtual machine on my computer. I
 
 ---
 
-Before I open any webpages or software, please tell us outloud: **How much time in minutes and/or seconds do you think the task will take?** and on a scale of 1 to 7, 1 being very difficult and 7 being very easy, **how easy or difficult will this task be?**
+Before I open any webpages or software, please tell the interviewer outloud: **How much time in minutes and/or seconds do you think the task will take?** and on a scale of 1 to 7, 1 being very difficult and 7 being very easy, **how easy or difficult will this task be?**
 
 ---
 
