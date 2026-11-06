@@ -49,11 +49,11 @@ Before I open any webpages or software, please tell the interviewer outloud: **H
 
 ---
 
-Please open this URL on a new firefox internet browser tab: http://homeassistant.local:8123/ 
-
 Please complete the new user onboarding/set up using the following steps here: https://deploy-preview-48129--home-assistant-docs.netlify.app/getting-started/onboarding/ 
 
-You can use the following information to complete onboarding/set up:
+Please open this URL on a new firefox internet browser tab: http://homeassistant.local:8123/ 
+
+You can use the following information to complete onboarding/set up or you can use your own information:
 
 - You are a new user
 - Name: Your name or alias
