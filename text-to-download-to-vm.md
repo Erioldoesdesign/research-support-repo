@@ -1,5 +1,5 @@
 ## Task 1 - Please read this aloud:
-I have just logged into a computer you own. It runs linux ubuntu operating system. 
+I have just logged into a computer I own. It runs linux ubuntu operating system. 
 I want to set up Home Assistant, which is an OSS smart home platform. I am not a user yet. 
 I have a program that allows me to create a Virtual Machine or VM on my computer. I want to use the software/program 'Oracle VirtualBox' to set up a virtual machine to run Home Assistant.
 
