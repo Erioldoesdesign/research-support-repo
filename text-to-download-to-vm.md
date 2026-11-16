@@ -41,7 +41,7 @@ Please wait until the interviewer say it's ok to scroll this page to the next ta
 
 
 ##  Task 2 - Please read this aloud:
-I have successfully set up Home Assistant on a virtual machine on my computer. I must now complete the onboarding and set-up of an account in order to use Home Assistant to manage my smart home devices because I am a new user.
+I have successfully set up Home Assistant on a virtual machine on my computer. I must now complete the onboarding and set-up an account in order to use Home Assistant to manage my smart home devices because I am a new user.
 
 ---
 
